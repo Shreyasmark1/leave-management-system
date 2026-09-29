@@ -2,6 +2,8 @@
 
 A full-stack leave management system for tracking employee leave requests, approvals, and balances. Built with Next.js 16 (App Router), TypeScript, Tailwind CSS, shadcn/ui, Drizzle ORM, and PostgreSQL.
 
+live url: https://leave-management-system-swart.vercel.app/
+
 ## Features
 
 ### Employee
